@@ -1,0 +1,8 @@
+http://www.paranatural.net/rss.php
+http://www.mspaintadventures.com/rss/rss.xml
+https://mojang.com/feed/
+http://xkcd.com/rss.xml
+http://feeds.feedburner.com/Explosm?format=xml
+http://pbfcomics.com/feed/feed.xml
+http://what-if.xkcd.com/feed.atom
+http://omniscientbibliophile.tumblr.com/rss
